@@ -28,7 +28,7 @@ Set up a Splunk SIEM lab on Windows 11 and learn the basic concepts of Splunk
 - SPL Basics
 
 ## Basic SPL Commands
-spl
+```spl
 search *
 
 index=main
@@ -42,6 +42,7 @@ sort -count
 fields host source
 
 rename host AS Computer
+```
 
 ## Deliverables
 
