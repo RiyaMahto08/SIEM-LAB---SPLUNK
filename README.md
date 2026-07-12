@@ -21,14 +21,12 @@ The project covers:
 
 | Week | Topic | Status |
 |------|-------|--------|
-| Week 1 | Splunk Installation & Fundamentals | ✅ |
-| Week 2 | Windows Event Logs & Event ID Analysis | ✅ |
-| Week 3 | Authentication Detection | ⏳ |
-| Week 4 | Process Monitoring | ⏳ |
-| Week 5 | Dashboards | ⏳ |
-| Week 6 | Alerts | ⏳ |
-| Week 7 | Detection Rules | ⏳ |
-| Week 8 | Final SIEM Project | ⏳ |
+| Week 1 | Splunk Installation & Fundamentals | ✅ Completed |
+| Week 2 | Windows Event Logs & SPL Basics | ✅ Completed |
+| Week 3 | Authentication Monitoring & Dashboard | 🟡 In Progress |
+| Week 4 | Alert Creation & Detection Rules | ⏳ Pending |
+| Week 5 | Dashboard Enhancement & SOC Investigation | ⏳ Pending |
+| Week 6 | Final SIEM Project & Documentation | ⏳ Pending |
 
 ---
 
