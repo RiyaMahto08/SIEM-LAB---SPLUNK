@@ -4,7 +4,7 @@
 
 This repository documents my 8-week hands-on SIEM learning journey using Splunk Enterprise on Windows 11.
 
-The project covers:
+This project covers:
 
 - Windows Event Logging
 - SPL (Search Processing Language)
