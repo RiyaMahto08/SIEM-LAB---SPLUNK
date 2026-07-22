@@ -19,14 +19,14 @@ The project covers:
 
 ## Project Roadmap
 
-| Week | Topic | Status |
-|------|-------|--------|
-| Week 1 | Splunk Installation & Fundamentals | ✅ Completed |
-| Week 2 | Windows Event Logs & SPL Basics | ✅ Completed |
-| Week 3 | Authentication Monitoring & Dashboard | ✅ Completed |
-| Week 4 | Alert Creation & Detection Rules | 🟡 In Progress |
-| Week 5 | Dashboard Enhancement & SOC Investigation | ⏳ Pending |
-| Week 6 | Final SIEM Project & Documentation | ⏳ Pending |
+| Week | Topic | Progress |
+|------|----------------------------------------------|----------|
+| Week 1 | Splunk Fundamentals | ✅ Completed |
+| Week 2 | Log Collection & Data Ingestion | ✅ Completed |
+| Week 3 | Detection Engineering | ✅ Completed |
+| Week 4 | SOC Alerting & Dashboard Development | ✅ Completed |
+| Week 5 | Enterprise Detection Engineering & Threat Hunting | 🟡 In Progress |
+| Week 6 | Project Finalization & Portfolio Enhancement | ⏳ Pending |
 
 ---
 
