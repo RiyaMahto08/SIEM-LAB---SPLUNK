@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository documents my 8-week hands-on SIEM learning journey using Splunk Enterprise on Windows 11.
+This repository documents my 5-week hands-on SIEM learning journey using Splunk Enterprise on Windows 11.
 
 This project covers:
 
