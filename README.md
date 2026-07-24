@@ -19,14 +19,15 @@ This project covers:
 
 ## Project Roadmap
 
+## Project Roadmap
+
 | Week | Topic | Progress |
-|------|----------------------------------------------|----------|
+|------|-----------------------------------------------|----------------|
 | Week 1 | Splunk Fundamentals | ✅ Completed |
 | Week 2 | Log Collection & Data Ingestion | ✅ Completed |
 | Week 3 | Detection Engineering | ✅ Completed |
 | Week 4 | SOC Alerting & Dashboard Development | ✅ Completed |
-| Week 5 | Enterprise Detection Engineering & Threat Hunting | 🟡 In Progress |
-| Week 6 | Project Finalization & Portfolio Enhancement | ⏳ Pending |
+| Week 5 | Enterprise Detection Engineering, Threat Hunting & Project Finalization | 🟡 In Progress |
 
 ---
 
