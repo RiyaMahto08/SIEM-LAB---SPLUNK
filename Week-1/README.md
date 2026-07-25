@@ -48,7 +48,6 @@ rename host AS Computer
 
 - Splunk successfully installed
 - Basic searches executed
-- Notes created
 - Screenshots collected
 
 ## Screenshot
