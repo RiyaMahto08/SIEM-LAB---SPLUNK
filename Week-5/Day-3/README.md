@@ -81,3 +81,6 @@ Mapping detections to MITRE ATT&CK helps security teams to:
 - Windows Event Mapping
 - SOC Documentation
 - Threat Intelligence
+
+# Completed ✅
+
