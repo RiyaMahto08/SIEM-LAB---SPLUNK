@@ -12,7 +12,7 @@ Learn how Windows generates security logs and analyze them in Splunk.
 - Windows Log Sources
 - Searching Windows logs in Splunk
 - Basic Event Analysis
-- 
+  
 ## Important Event IDs
 
 | Event ID | Description |
