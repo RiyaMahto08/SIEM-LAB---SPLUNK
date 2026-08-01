@@ -27,7 +27,7 @@ This project covers:
 | Week 2 | Log Collection & Data Ingestion | ✅ Completed |
 | Week 3 | Detection Engineering | ✅ Completed |
 | Week 4 | SOC Alerting & Dashboard Development | ✅ Completed |
-| Week 5 | Enterprise Detection Engineering, Threat Hunting & Project Finalization | 🟡 In Progress |
+| Week 5 | Enterprise Detection Engineering, Threat Hunting & Project Finalization | ✅ Completed  |
 
 ---
 
